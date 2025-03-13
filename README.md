@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **filipsecure29@gmail.com**
 
-- ⚡ Fun fact **I'm pretty extroverted and can get along with a lot of people almost instantly.**
+- ⚡ Fun fact: **I'm pretty extroverted and can get along with a lot of people almost instantly.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
