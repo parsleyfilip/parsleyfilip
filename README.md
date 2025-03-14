@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">I love to learn and program in various languages!</h3>
 
-- 🔭 I’m currently working on [a laravel based SaaS project management app](https://github.com/parsleyfilip/Project-Manager-App)
+- 🔭 I’m currently working on [a laravel based SaaS project management app]()
 
 - 🌱 I’m currently learning **Golang, TailwindCSS and Laravel**
 
-- 👨‍💻 All of my projects are available at [parsleyfilip.com](parsleyfilip.com)
+- 👨‍💻 All of my projects are available at [parsleyfilip.com](https://parsleyfilip.com)
 
 - 💬 Ask me about **Golang!**
 
