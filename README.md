@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Filip</h1>
 <h3 align="center">I love to learn and program in various languages!</h3>
 
-- 🔭 I’m currently working on [a laravel based SaaS project management app]()
-
 - 🌱 I’m currently learning **Golang, TailwindCSS and Laravel**
 
 - 👨‍💻 All of my projects are available at [parsleyfilip.com](https://parsleyfilip.com)
@@ -11,7 +9,7 @@
 
 - 📫 How to reach me **filipsecure29@gmail.com**
 
-- ⚡ Fun fact: **I'm pretty extroverted and can get along with a lot of people almost instantly.**
+- ⚡ Fun fact: **I'm pretty extroverted and can get along with a lot of people very easily.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
